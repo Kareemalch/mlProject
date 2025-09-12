@@ -36,6 +36,12 @@ MANIFEST
 pip-log.txt
 pip-delete-this-directory.txt
 
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Specific notebooks to ignore
+notebook/1 . EDA STUDENT PERFORMANCE .ipynb
+
 # Unit test / coverage reports
 htmlcov/
 .tox/
